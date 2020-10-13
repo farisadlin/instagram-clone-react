@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "logs",
+			"path": "functions/",
+			"problemMatcher": [],
+			"label": "npm: logs - functions",
+			"detail": "firebase functions:log"
+		}
+	]
+}
